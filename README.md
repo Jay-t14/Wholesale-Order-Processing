@@ -1,4 +1,4 @@
-# Wholesale-Order-Processing
+# Wholesale-Order-Processing-Alterx
 1. Update the Existing Data Warehouse Orders table with the latest POS orders, placed in August 2021.
 
 2. Update the POS and Existing Data Warehouse Orders table with the returns information. That is, set the RETURNED column, to the right value.
